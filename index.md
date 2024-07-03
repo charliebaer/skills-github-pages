@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: This is Hope Page i guess
 ---
-Hi Hello Namaste !
+Home Page Body
 
